@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-**MERN-Persona** is a web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The project is designed to analyze essays and provide personality predictions based on the written content. It is specifically tailored to support **HR departments** or **recruiters** in gaining deeper insights into their employees' or candidates' personalities efficiently and effectively.
+**MERN-Persona** is a web application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js). The project is designed to analyze essays and provide personality predictions based on the written content. It is specifically tailored to support **HR departments** or **recruiters** in gaining deeper insights into their employees' or candidates' personalities efficiently and effectively. [TRY NOW!](https://mern-persona.onrender.com/authenticate)
 
 ![image](https://github.com/user-attachments/assets/03f539c0-ed9f-4869-9ff0-70530776e1f6)
 
