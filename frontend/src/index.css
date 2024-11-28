@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.google-button > div {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: center;
+}
