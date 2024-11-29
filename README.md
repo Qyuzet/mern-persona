@@ -30,13 +30,6 @@
   </table>
 </div>
 
-![image](https://github.com/user-attachments/assets/ba9ce114-d308-422f-b840-f53838c394c0)
-
-
-
-
-
-
 
 ## Key Features
 
@@ -145,3 +138,68 @@
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+
+## SOP: Persona Web Application Demo
+
+### Objective:
+
+To demonstrate the functionality of the Persona web application for analyzing employee personalities based on their essays or CVs.
+
+### Key Steps:
+
+1. **Authentication and Sign-Up:**
+
+   - Use OAuth2 from Google for authentication.
+   - Sign up for a new account if needed.
+   - Sign in with your credentials.
+
+2. **Analysis:**
+
+   - Click on a PDF to analyze a person's personality.
+   - Search for the person you want to analyze.
+   - Click on the payload and analyze the essay to get results like probable MBTI, good and bad aspects.
+
+3. **Manual Append:**
+
+   - Type an essay manually in the system.
+   - Click on "propagate" to add the data to the current payload.
+
+4. **Bulk Analysis:**
+
+   - Open multiple PDFs to append automatically.
+   - Click on "bulk auto" to analyze each one automatically.
+
+5. **Quality Control:**
+
+   - Ensure the quality of the data inside the essay for accurate results.
+   - Avoid using AI-generated content for analysis.
+
+6. **Exploration and Future Models:**
+
+   - Explore more robust document analysis options in future versions.
+   - Consider the Explorer and Quanta models for deeper analysis.
+
+7. **Logout:**
+
+   - Log out of the system once analysis is complete.
+
+### Cautionary Notes:
+
+- Quality of results depends on the quality of data in the essays.
+- Avoid using AI-generated content for analysis to ensure accuracy.
+- Use the desktop version of the interface for optimal functionality.
+
+### Tips for Efficiency:
+
+- Clear unnecessary data to keep the system organized.
+- Regularly update to newer models for enhanced analysis capabilities.
+- Use desktop version for optimal user experience.
+
+By following these steps, you can effectively demonstrate the Persona web application and analyze employee personalities with accuracy and efficiency.
+
+### Link to Demo Video
+
+<https://loom.com/share/7f69e2b36a0a4b52921fe7185c9f0e06?src=composer>
